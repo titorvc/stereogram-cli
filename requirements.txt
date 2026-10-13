@@ -1,0 +1,6 @@
+numpy
+Pillow
+click
+requests
+replicate
+huggingface_hub

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "concepto": "Vector en 3 dimensiones",
+    "prompt_visual": "Silueta de un sistema de coordenadas tridimensional con ejes X, Y, Z y una flecha gruesa tridimensional partiendo del origen.",
+    "pista_correcta": "Ecuación de un vector con 3 componentes (ej. v = 3i + 4j + 5k)."
+  },
+  {
+    "id": 2,
+    "concepto": "Triángulo de Pascal",
+    "prompt_visual": "Silueta de una pirámide escalonada simétrica formada por bloques cuadrados, similar a una pirámide maya.",
+    "pista_correcta": "Imagen de los coeficientes binomiales expandidos."
+  },
+  {
+    "id": 3,
+    "concepto": "Fractal triángulo Nautilus",
+    "prompt_visual": "Silueta de una espiral logarítmica perfecta, similar a la concha de un caracol nautilus.",
+    "pista_correcta": "Sucesión de Fibonacci o la fórmula de la espiral dorada."
+  },
+  {
+    "id": 4,
+    "concepto": "1era ley de Newton",
+    "prompt_visual": "Silueta de un bloque cuadrado masivo en reposo sobre una superficie plana.",
+    "pista_correcta": "La fórmula del equilibrio de fuerzas (ΣF = 0) o un diagrama de inercia."
+  },
+  {
+    "id": 5,
+    "concepto": "Secuencia de números primos",
+    "prompt_visual": "Silueta de barras verticales de diferentes alturas formando un patrón irregular (alturas de 2, 3, 5 y 7 unidades).",
+    "pista_correcta": "Una criba de Eratóstenes incompleta."
+  },
+  {
+    "id": 6,
+    "concepto": "Teorema de Pitágoras",
+    "prompt_visual": "Silueta de un triángulo rectángulo en el centro, con tres cuadrados perfectos adheridos a cada uno de sus tres lados.",
+    "pista_correcta": "La ecuación $c^2 = a^2 + b^2$."
+  },
+  {
+    "id": 7,
+    "concepto": "Proporción áurea",
+    "prompt_visual": "Silueta de un rectángulo grande subdividido en rectángulos más pequeños formando un patrón en espiral.",
+    "pista_correcta": "El número Phi (1.618)."
+  },
+  {
+    "id": 8,
+    "concepto": "Conservación de la energía",
+    "prompt_visual": "Silueta de un péndulo simple colgando desde un eje superior, capturado en su punto más alto de oscilación.",
+    "pista_correcta": "La ecuación $E_k + E_p = Constante$."
+  },
+  {
+    "id": 9,
+    "concepto": "Área bajo la curva",
+    "prompt_visual": "Silueta de un plano cartesiano con una curva sinuosa en la parte superior y múltiples barras rectangulares verticales rellenando el espacio debajo de ella.",
+    "pista_correcta": "El símbolo de la integral definida $\\int_{a}^{b} f(x) dx$."
+  },
+  {
+    "id": 10,
+    "concepto": "Refracción",
+    "prompt_visual": "Silueta de un prisma triangular siendo atravesado por un haz brillante que cambia bruscamente de ángulo al salir.",
+    "pista_correcta": "La Ley de Snell ($n_1 \\sin(\\theta_1) = n_2 \\sin(\\theta_2)$)."
+  },
+  {
+    "id": 11,
+    "concepto": "Electrostática",
+    "prompt_visual": "Silueta de dos esferas suspendidas y separadas, unidas por líneas curvas que representan un campo eléctrico o magnético.",
+    "pista_correcta": "La Ley de Coulomb ($F = k \\frac{q_1 q_2}{r^2}$)."
+  },
+  {
+    "id": 12,
+    "concepto": "Fórmula del agua",
+    "prompt_visual": "Silueta de un modelo molecular: una esfera grande central unida a dos esferas más pequeñas formando un ángulo obtuso.",
+    "pista_correcta": "Un diagrama de enlaces covalentes del H2O."
+  },
+  {
+    "id": 13,
+    "concepto": "Fuerza resultante de suma de vectores",
+    "prompt_visual": "Silueta de dos flechas unidas por su origen formando un paralelogramo, con una tercera flecha más gruesa cruzando el centro.",
+    "pista_correcta": "Método del paralelogramo o polígono de fuerzas."
+  },
+  {
+    "id": 14,
+    "concepto": "Fuerza",
+    "prompt_visual": "Silueta de un bloque grande siendo empujado por una sola flecha horizontal gruesa y recta.",
+    "pista_correcta": "La Segunda Ley de Newton ($F = ma$)."
+  },
+  {
+    "id": 15,
+    "concepto": "Gravedad",
+    "prompt_visual": "Silueta de un círculo masivo central con múltiples objetos pequeños a su alrededor, con flechas apuntando hacia el centro del círculo grande.",
+    "pista_correcta": "La Ley de Gravitación Universal ($F = G \\frac{m_1 m_2}{r^2}$)."
+  }
+]
